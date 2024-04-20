@@ -1,7 +1,7 @@
 eclipse 대신 intellij로 진행
 
 - 서버 실행은 되나 localhost로 접속하면 아래와같은 페이지가 나옴
-- 
+
 Whitelabel Error Page
 
 This application has no explicit mapping for /error, so you are seeing this as a fallback.
